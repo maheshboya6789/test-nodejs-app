@@ -31,7 +31,7 @@ Using simple "hello world" application from the [nodejs.org](https://nodejs.org/
 ## On Jenkins GUI 
 
 1. Create the new FreeStyle Project 
-   ```sh
+   ```sh  
    Git URL - https://github.com/ravdy/nodejs.git
    ```
   BUILD --> Execute Shell npm install
